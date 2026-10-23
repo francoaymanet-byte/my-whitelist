@@ -1,3 +1,8 @@
+Here’s the cleaned code with `munchplop / d` and the entire `brownie` section removed.
+
+json
+```
+
 {
   "whitelist": {
     "11086192335": {
@@ -7,27 +12,7 @@
     "4284438865": {
       "level": 999,
       "note": "atmutdy"
-    },
-    "8982440415": {
-      "level": 999,
-      "note": "munchplop / d"
     }
-  },
-  "brownie": {
-    "userID": 8817659721,
-    "rolls": [
-      {
-        "chance": 70,
-        "level": 1
-      },
-      {
-        "chance": 20,
-        "level": 2
-      },
-      {
-        "chance": 10,
-        "level": 5
-      }
-    ]
   }
 }
+```
