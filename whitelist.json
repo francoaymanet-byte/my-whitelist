@@ -1,7 +1,3 @@
-Here’s the cleaned code with `munchplop / d` and the entire `brownie` section removed.
-
-json
-```
 
 {
   "whitelist": {
@@ -15,4 +11,4 @@ json
     }
   }
 }
-```
+
